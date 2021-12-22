@@ -1,0 +1,74 @@
+.wrap{
+	background: green;
+	width: 600px;
+	margin: 15px auto;
+	
+}
+ 
+/*bagian header*/
+.wrap .header{
+	background: green;
+	/*height: 50px;*/
+	padding: 5px 15px;
+	
+}
+
+/*bagian beranda*/
+.wrap .header .beranda{
+	background:green;
+	padding: 2px 10px;
+}
+ 
+/*akhir header*/
+ 
+/*bagian menu*/
+.wrap .menu{
+	background: yellow;
+	
+}
+ 
+
+/*akhir menu*/
+ 
+.clear{
+	clear: both;
+}
+ 
+.badan{
+	height: 450px;
+}
+/*bagian sidebar*/
+.wrap .badan .JudulArtikel{
+	background: orange;
+	float: left;	
+	width: 65%;
+	height: 70%;
+}
+ 
+/*akhir sidebar*/
+ 
+.wrap .badan .InformasiTambahan{
+	background: blue;
+	float: right;
+	height: 70%;
+	width: 35%;	
+}
+
+.bawah{
+	bawah: both;
+}
+
+.bawah{
+	height: 450px;
+}
+ 
+.wrap .bawah .footer{
+	width: 80%;
+	padding: 10px;
+}
+
+.wrap .bawah .kontakkami{
+	width: 80%;
+	padding: 10px;
+	float: left;
+}
